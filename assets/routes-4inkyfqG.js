@@ -14673,7 +14673,7 @@ function fS() {
                 children: [{
                     eyebrow: `AI Voice Receptionist`,
                     badge: `Own it outright`,
-                    price: `$2,447`,
+                    price: `$997`,
                     cadence: `one-time setup`,
                     description: `Optional $299/month support plan after your first 30 days.`,
                     included: [`Full AI agent build and training on your business`, `Your own Retell AI account with no usage markup`, `Calendar booking, SMS confirmations and rescheduling`, `Warm transfers for emergencies`, `Call recordings, transcripts and lead texts`, `30 days of hands-on support included`],
